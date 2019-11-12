@@ -5,4 +5,4 @@ Llistat de treballs. Sistemes de Representació Avançada.
 * [CMYK](https://mariasaavedraguillem.github.io/cmyk/)
 * [BROOM](https://mariasaavedraguillem.github.io/broom/)
 * [Maquetacio](https://mariasaavedraguillem.github.io/Maquetacio/)
-* [Tarjetes-flexbox](https://mariasaavedraguillem.github.io/Tarjetes-flexbox/)
+* [Tarjetes-flexbox]
