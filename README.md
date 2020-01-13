@@ -7,3 +7,4 @@ Llistat de treballs. Sistemes de Representació Avançada.
 * [Maquetacio](https://mariasaavedraguillem.github.io/Maquetacio/)
 * [Tarjetes-flexbox](https://mariasaavedraguillem.github.io/Tarjetes/)
 * [Grid](https://mariasaavedraguillem.github.io/Grid/)
+* [Minimalissimo shop](https://mariasaavedraguillem.github.io/Minimalissimo-shop/)
