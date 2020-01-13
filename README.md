@@ -5,7 +5,7 @@ Llistat de treballs. Sistemes de Representació Avançada.
 * [CMYK](https://mariasaavedraguillem.github.io/cmyk/)
 * [BROOM](https://mariasaavedraguillem.github.io/broom/)
 * [Maquetacio](https://mariasaavedraguillem.github.io/Maquetacio/)
-* [Tarjetes-flexbox](https://mariasaavedraguillem.github.io/Tarjetes/)
+* [Tarjetes-flexbox](https://mariasaavedraguillem.github.io/Tarjetes-flexbox/)
 * [Grid](https://mariasaavedraguillem.github.io/Grid/)
 * [Minimalissimo shop](https://mariasaavedraguillem.github.io/Minimalissimo-shop/)
 * [Made-by-field-work](https://mariasaavedraguillem.github.io/Made-by-field-work/)
